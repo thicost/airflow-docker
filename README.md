@@ -1,6 +1,6 @@
 # airflow-docker
 
-A pasta dataset esta armazenado dois arquivos 
+A pasta dataset contem dois arquivos 
 * vendas-combustiveis-m3.xls 
 * vendas-combustiveis-m3_diesel.xls
 
